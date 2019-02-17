@@ -26,7 +26,7 @@ Projeto apresentado para obtenção de nota na disciplina de Tec. de Programaç�
  - ##### Buzzer
     + ###### [Instruções do Buzzer](http://www.farnell.com/datasheets/2171929.pdf)
     
-###### TEXTO SOBRE ESP32     
+###### TEXTO SOBRE bUZZER     
   
 ## Bibliotecas
 
