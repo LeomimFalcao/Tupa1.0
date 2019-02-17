@@ -6,9 +6,6 @@
 ## U = UMIDADE
 ## PA = PRESSAO ATMOSFÉRICA
 
-Projeto apresentado para obtenção de nota na disciplina de Tec. de Programação
-
-
 ## Guia Rápido 
 - [Introdução](#introdução)
 - [Funcionalidades](#funcionalidades)
