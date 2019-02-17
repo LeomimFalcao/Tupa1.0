@@ -2,10 +2,6 @@
 
 ![](imagens/tupa1_logo.png)
 
-## T = TEMPERATURA
-## U = UMIDADE
-## PA = PRESSAO ATMOSFÉRICA
-
 ## Guia Rápido 
 - [Introdução](#introdução)
 - [Funcionalidades](#funcionalidades)
