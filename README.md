@@ -8,8 +8,8 @@
 - [Materiais](#materiais)
 - [Bibliotecas](#bibliotecas)
 - [Comunicação](#comunicação)
--[Site](#site)
--[QT](#qt)
+- [Site](#site)
+- [QT](#qt)
 
 ## Introdução 
 
