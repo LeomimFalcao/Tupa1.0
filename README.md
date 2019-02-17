@@ -12,6 +12,8 @@
 - [Materiais](#materiais)
 - [Bibliotecas](#bibliotecas)
 - [Comunicação](#comunicação)
+-[Site](#site)
+-[QT](#qt)
 
 ## Introdução 
 
@@ -58,4 +60,7 @@
  - #### NODEMCU ESP 32 <-> QT
    + ###### TRAFEGO DE DADOS NODEMCU ESP32 E O QT
   
-## Comunicação
+## Site
+
+## QT
+
