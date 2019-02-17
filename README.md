@@ -12,6 +12,7 @@ Projeto apresentado para obtenção de nota na disciplina de Tec. de Programaç�
 ## Introdução 
 
 ## Estação Meteorológica 
+
 - ### Materiais
 
  - ##### BME280
@@ -29,6 +30,7 @@ Projeto apresentado para obtenção de nota na disciplina de Tec. de Programaç�
     + ###### [Instruções do Buzzer](http://www.farnell.com/datasheets/2171929.pdf)
   
 ## Bibliotecas
+
   - ##### WiFi.h
   
     + [Dados da Biblioteca WiFi.h](https://github.com/espressif/arduino-esp32)
@@ -37,9 +39,8 @@ Projeto apresentado para obtenção de nota na disciplina de Tec. de Programaç�
   
     + [Dados da Biblioteca BME280I2C.h](https://github.com/finitespace/BME280)
 
-   - ##### HTTPClient.h
-   
-    +  [Dados da Biblioteca HTTTPClient.h](https://github.com/espressif/arduino-esp32)
+   - ##### HTTPClient.h   
+    + [Dados da Biblioteca HTTTPClient.h](https://github.com/espressif/arduino-esp32)
     
     
 ## Comunicação
