@@ -29,7 +29,7 @@
  - ##### Buzzer
     + ###### [Instruções do Buzzer](http://www.farnell.com/datasheets/2171929.pdf)
     
-###### TEXTO SOBRE bUZZER     
+###### TEXTO SOBRE BUZZER     
   
 ## Bibliotecas
 
