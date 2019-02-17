@@ -8,6 +8,7 @@
 - [Materiais](#materiais)
 - [Bibliotecas](#bibliotecas)
 - [Comunicação](#comunicação)
+- [Instalação](#instalação)
 - [Site](#site)
 - [QT](#qt)
 
@@ -56,6 +57,10 @@
   
  - #### NODEMCU ESP32 <-> QT
    + ###### TRAFEGO DE DADOS NODEMCU ESP32 E O QT
+   
+## Instalação
+
+Baixe a pasta de [release](https://github.com/VictorHerbert/Tupa1.0/tree/master/QT/Release/) e execute o arquivo "Tupa1.exe" 
   
 ## Site
 ###### TEXTO SOBRE AS CARACTERÍSTICAS DETALHADAS DO SITE, EM RELAÇÃO A GRÁFICOS, MÁXIMO,MÉDIAS E MÍNIMOS DOS DADOS COLETADOS

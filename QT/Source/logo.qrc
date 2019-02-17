@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Tupa1_Logo.png</file>
+    </qresource>
+</RCC>
