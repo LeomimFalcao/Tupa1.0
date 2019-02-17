@@ -17,10 +17,16 @@ Projeto apresentado para obtenção de nota na disciplina de Tec. de Programaç�
 
  - ##### BME280
     + ###### [Instruções do BME280](https://www.embeddedadventures.com/datasheets/BME280.pdf)
+
+###### TEXTO SOBRE BME280 
  - ##### NODEMCU ESP32
     + ###### [Instruções do ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+    
+###### TEXTO SOBRE NODEMCU ESP32     
  - ##### Buzzer
     + ###### [Instruções do Buzzer](http://www.farnell.com/datasheets/2171929.pdf)
+    
+###### TEXTO SOBRE ESP32     
   
 ## Bibliotecas
 
