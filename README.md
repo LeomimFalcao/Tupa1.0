@@ -27,14 +27,15 @@ Projeto apresentado para obtenção de nota na disciplina de Tec. de Programaç�
 - ### Bibliotecas
   - ##### WiFi.h
   
-    + [Instructions for Boards Manager](https://github.com/espressif/arduino-esp32)
+    + [Dados da Biblioteca WiFi.h](https://github.com/espressif/arduino-esp32)
 
   - ##### BME280I2C.h
   
-    + [Instructions for Boards Manager](https://github.com/finitespace/BME280)
+    + [Dados da Biblioteca BME280I2C.h](https://github.com/finitespace/BME280)
 
   - ##### HTTPClient.h
   
-    +  [Instructions for Boards Manager](https://github.com/espressif/arduino-esp32)
-  
-  ## Comunicação
+    +  [Dados da Biblioteca HTTTPClient.h](https://github.com/espressif/arduino-esp32)
+    
+    
+## Comunicação
