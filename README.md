@@ -1,6 +1,5 @@
-</div> # Tupa1.0 </div>
+# Tupa1.0 
 ![](imagens/tupa1_logo.png)
-
 
 Projeto apresentado para obtenção de nota na disciplina de Tec. de Programação,
 ## Guia Rápido 
