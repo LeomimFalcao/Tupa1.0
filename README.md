@@ -60,7 +60,7 @@
    
 ## Instalação
 
-Baixe o [Pasta de release](https://github.com/VictorHerbert/Tupa1.0/tree/master/QT/Release/) e execute o arquivo "Tupa1.exe" 
+Baixe a pasta de [release](https://github.com/VictorHerbert/Tupa1.0/tree/master/QT/Release/) e execute o arquivo "Tupa1.exe" 
   
 ## Site
 ###### TEXTO SOBRE AS CARACTERÍSTICAS DETALHADAS DO SITE, EM RELAÇÃO A GRÁFICOS, MÁXIMO,MÉDIAS E MÍNIMOS DOS DADOS COLETADOS
