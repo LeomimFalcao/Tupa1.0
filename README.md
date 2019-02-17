@@ -25,11 +25,17 @@ Projeto apresentado para obtenção de nota na disciplina de Tec. de Programaç�
 ## Bibliotecas
 
   - ##### WiFi.h
-    + [Dados da Biblioteca WiFi.h](https://github.com/espressif/arduino-esp32)
+    + ###### [Dados da Biblioteca WiFi.h](https://github.com/espressif/arduino-esp32)
+    
+###### TEXTO SOBRE A WIFI.H CITANDO OS METODOS QUE UTILIZAMOS
   - ##### BME280I2C.h
-    + [Dados da Biblioteca BME280I2C.h](https://github.com/finitespace/BME280)
+    + ###### [Dados da Biblioteca BME280I2C.h](https://github.com/finitespace/BME280)
+    
+###### TEXTO SOBRE O BME280.h CITANDO OS METODOS QUE UTILIZAMOS
   - ##### HTTPClient.h   
-    + [Dados da Biblioteca HTTPClient.h](https://github.com/espressif/arduino-esp323)
+    + ###### [Dados da Biblioteca HTTPClient.h](https://github.com/espressif/arduino-esp32)
+    
+###### TEXTO SOBRE O HTTPClient.h CITANDO OS METODOS QUE UTILIZAMOS
     
     
     
