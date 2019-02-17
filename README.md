@@ -1,8 +1,13 @@
-# Tupa1.0 [ Estação Meteorológica ]
+# Tupa1.0 - Estação Meteorológica 
 
 ![](imagens/tupa1_logo.png)
 
+## T = TEMPERATURA
+## U = UMIDADE
+## PA = PRESSAO ATMOSFÉRICA
+
 Projeto apresentado para obtenção de nota na disciplina de Tec. de Programação
+
 
 ## Guia Rápido 
 - [Introdução](#introdução)
@@ -49,11 +54,11 @@ Projeto apresentado para obtenção de nota na disciplina de Tec. de Programaç�
     
 ## Comunicação
  - #### NODEMCU ESP 32 <-> SITE
-  + ###### TRAFEGO DE DADOS ENTRE O NODEMCU ESP32 E O SITE
-  + ###### SERVIDOR EM PYTHON 
-  + ###### SITE EM JAVASCRIPT/HTML
+   + ###### TRAFEGO DE DADOS ENTRE O NODEMCU ESP32 E O SITE
+   + ###### SERVIDOR EM PYTHON 
+   + ###### SITE EM JAVASCRIPT/HTML
   
  - #### NODEMCU ESP 32 <-> QT
-  + ###### TRAFEGO DE DADOS NODEMCU ESP32 E O QT
+   + ###### TRAFEGO DE DADOS NODEMCU ESP32 E O QT
   
 ## Comunicação
