@@ -16,7 +16,7 @@
 ## Funcionalidades 
 ###### TEXTOS E IMAGENS DO SITE E DO QT FUNCIONANDO, APENAS EXEMPLIFICANDO O QUE O NOSSO PROJETO PODE FAZER DE FORMA BREVE.
 
-- ### Materiais
+## Materiais
 
  - ##### BME280
     + ###### [Instruções do BME280](https://www.embeddedadventures.com/datasheets/BME280.pdf)
