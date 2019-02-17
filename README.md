@@ -49,12 +49,12 @@
     
     
 ## Comunicação
- - #### NODEMCU ESP 32 <-> SITE
+ - #### NODEMCU ESP32 <-> SITE
    + ###### TRAFEGO DE DADOS ENTRE O NODEMCU ESP32 E O SITE
    + ###### SERVIDOR EM PYTHON 
    + ###### SITE EM JAVASCRIPT/HTML
   
- - #### NODEMCU ESP 32 <-> QT
+ - #### NODEMCU ESP32 <-> QT
    + ###### TRAFEGO DE DADOS NODEMCU ESP32 E O QT
   
 ## Site
