@@ -1,6 +1,8 @@
 # Tupa1.0 - Estação Meteorológica 
 
-![](imagens/tupa1_logo.png)
+<p align="center">
+  <img src="imagens/tupa1_logo.png?raw=true" alt="Logo"/>
+</p>
 
 ## Guia Rápido 
 - [Introdução](#introdução)
